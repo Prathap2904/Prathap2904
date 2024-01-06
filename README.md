@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Prathap2904
-- 👀 I’m interested in Fullstack Java
-- 🌱 I’m currently learning FullStack java 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+# Hi there this is Santhosh Kumar! 👋
+<br>
 
-<!---
-Prathap2904/Prathap2904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+
+
+* 👻 MERN Stack Developer
+* 💙 I love developing Blogs and Sites
+* 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
+* ✨ Seeking a beginners role to explore and enhance my technical knowledge gained at my university
+* 📬 Reach me out on [Instagram](https://www.instagram.com/santhosh_kumar_08/) or [Linkedin](https://www.linkedin.com/in/santhosh-kumar-8039651ba) 
+* 🐤 Fun Fact: Trying to be funny!
+
+
