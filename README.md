@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathap2904
 - 👀 I’m interested in Fullstack Java
-- 🌱 I’m currently learning FullStack java in Besant Technologies
+- 🌱 I’m currently learning FullStack java 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
