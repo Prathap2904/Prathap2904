@@ -1,14 +1,29 @@
-# Hi there this is Prathap! 👋
-<br>
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40prathap-m-m~%23+whoami;%E2%9C%93+mechatronics;%E2%9C%93+Web+Developer+;%E2%9C%93+Competetive+Coder+)](https://git.io/typing-svg)
 
 
-* 👻 FullStack Developer
-* 💙 I love developing Blogs and Sites
-* 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
-* ✨ Seeking a beginners role to explore and enhance my technical knowledge gained at my university
-* 📬 Reach me out on  [Linkedin](www.linkedin.com/in/prathapmurugan) 
-* 🐤 Fun Fact: Trying to be funny!
 
 
+
+<h3 align="center">I Am passionate on Technology</h3>
+<img align="right" alt="Coding" width="400" src="https://vanjapetrovic.com/img/front.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-rm&label=Profile%20views&color=0e75b6&style=flat" alt="anish-rm" /> </p>
+
+- 🌱 I’m currently learning **Fullstack**
+
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 💬 Ask me about **Java,Frontend,Backend,Cloud**
+
+- 📫 How to reach me **prathap2904@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https:www.linkedin.com/in/prathapmurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathap" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-rm&show_icons=true&locale=en&layout=compact" alt="anish-rm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-rm&show_icons=true&locale=en" alt="anish-rm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-rm&" alt="anish-rm" /></p>
