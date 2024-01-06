@@ -7,7 +7,7 @@
 <h3 align="center">I Am passionate on Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://vanjapetrovic.com/img/front.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-rm&label=Profile%20views&color=0e75b6&style=flat" alt="anish-rm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathap2904 m&label=Profile%20views&color=0e75b6&style=flat" alt="prathap-mm" /> </p>
 
 - 🌱 I’m currently learning **Fullstack**
 
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-rm&show_icons=true&locale=en" alt="anish-rm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-rm&" alt="anish-rm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathap2904m&" alt="prathap-mm" /></p>
