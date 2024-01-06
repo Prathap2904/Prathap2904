@@ -22,8 +22,4 @@
 <a href="https:www.linkedin.com/in/prathapmurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathap" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-rm&show_icons=true&locale=en&layout=compact" alt="anish-rm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-rm&show_icons=true&locale=en" alt="anish-rm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathap2904m&" alt="prathap-mm" /></p>
